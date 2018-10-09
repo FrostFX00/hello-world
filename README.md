@@ -1,4 +1,7 @@
 # hello-world
 My first heckin' repository
 
-merge please
+This old message was crap and so is this one.
+
+Hi mom!
+=======
